@@ -1,0 +1,1 @@
+A collection of zsh/bash scripts i can use to set up mac or ubuntu environments
